@@ -1,4 +1,4 @@
-##RTLacc
+## RTLacc
 
 RTLacc is an acceleration method of RTL simulation based on code instrumentation.
 
