@@ -1,4 +1,4 @@
-#RTLacc
+##RTLacc
 
 RTLacc is an acceleration method of RTL simulation based on code instrumentation.
 
@@ -9,8 +9,6 @@ We apply this acceleration method to the accelerator benchmark [MachSuite](https
 Folder organisation is of the following format:
 
 
-
-- #### Algorithm
 	
        - ##### Accelerator folder
              -original accelerator source file
